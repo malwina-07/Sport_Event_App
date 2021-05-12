@@ -1,2 +1,4 @@
-package eu.sportEvent.test;public class testclass {
+package eu.sportEvent.test;
+
+public class testclass {
 }
